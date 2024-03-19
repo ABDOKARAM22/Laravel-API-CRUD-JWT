@@ -16,7 +16,7 @@ To get started with this Laravel project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-laravel-api.git
+   git clone https://github.com/ABDOKARAM22/Laravel-API-CRUD-JWT.git
 
 2. **Install dependencies:**
 
